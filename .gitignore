@@ -1,0 +1,7 @@
+*.log
+dir folder/
+/dir/
+static/dir
+db.accdb.pptx
+sdf
+
